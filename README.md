@@ -4,9 +4,11 @@
 
 # Preview
 
+静态图片预览：
+![](https://github.com/cernard/ClipboardSyncClient/raw/master/wn3fe-mrz4t.gif)
 ![gif...](https://github.com/cernard/ClipboardSyncClient/raw/master/wn3fe-mrz4t.gif)
 
-（如果预览Gif加载过慢，你可以手动下载：https://github.com/cernard/ClipboardSyncClient/raw/master/wn3fe-mrz4t.gif）
+（如果预览Gif加载过慢，你可以手动下载：https://github.com/cernard/ClipboardSyncClient/blob/master/wn3fe-mrz4t.gif）
 
 ## 你可能还需要...
 
