@@ -5,7 +5,9 @@
 # Preview
 
 静态图片预览：
-![](https://github.com/cernard/ClipboardSyncClient/raw/master/wn3fe-mrz4t.gif)
+![](https://github.com/cernard/ClipboardSyncClient/raw/master/iShot2021-08-22%2001.25.03.png)
+
+Gif预览
 ![gif...](https://github.com/cernard/ClipboardSyncClient/raw/master/wn3fe-mrz4t.gif)
 
 （如果预览Gif加载过慢，你可以手动下载：https://github.com/cernard/ClipboardSyncClient/blob/master/wn3fe-mrz4t.gif）
