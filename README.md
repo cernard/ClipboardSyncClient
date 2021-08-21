@@ -2,9 +2,16 @@
 
 剪切板数据快速同步工具。因为国内iCloud环境问题，剪切板多平台同步就是个玄学，所以开发了此工具。此工具不通过iCloud，而是通过自建服务器中转分发剪切板数据。
 
+# Preview
+
+![gif...](https://github.com/cernard/ClipboardSyncClient/raw/master/wn3fe-mrz4t.gif)
+
+（如果预览Gif加载过慢，你可以手动下载：https://github.com/cernard/ClipboardSyncClient/raw/master/wn3fe-mrz4t.gif）
+
 ## 你可能还需要...
 
 服务端：https://github.com/cernard/ClipboardSyncServer.git
+
 
 # 工作流程
 
